@@ -1,0 +1,133 @@
+
+"pre@[normal]: []@key [smart-input-source--prefix-override-handler]@cmd [temp.org]@buf [t]@override"
+
+"prefix: [], override: [t]"
+
+"now: [1033]"
+
+"set: english @ [temp.org]"
+
+"post@[prefix]: []@key [smart-input-source--prefix-override-handler]@cmd [temp.org]@buf [nil]@override"
+
+[nox] Connected server with project: cpp
+
+"pre@[prefix]: [h]@key [split-window-horizontally]@cmd [temp.org]@buf [nil]@override"
+
+"post@[sequence]: [h]@key [split-window-horizontally]@cmd [temp.org]@buf [nil]@override"
+
+
+"pre@[sequence]: [\270]@key [awesome-tab-forward-tab]@cmd [temp.org]@buf [nil]@override"
+
+"save: [1033]@[temp.org]"
+
+"post@[normal]: [\270]@key [awesome-tab-forward-tab]@cmd [alig.org]@buf [t]@override"
+
+"restore: [nil]@[alig.org]"
+
+
+"pre@[normal]: []@key [smart-input-source-switch]@cmd [alig.org]@buf [t]@override"
+
+"post@[normal]: []@key [smart-input-source-switch]@cmd [alig.org]@buf [t]@override"
+
+
+"pre@[normal]: [[30475]]@key [org-self-insert-command]@cmd [alig.org]@buf [t]@override"
+
+"post@[normal]: [[30475]]@key [org-self-insert-command]@cmd [alig.org]@buf [t]@override"
+
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 11 lines.
+
+Wrote c:/Users/Aqua/iCloudDrive/Documents/Org/alig.org
+Omitted 11 lines.
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 10 lines.
+
+"pre@[normal]: []@key [smart-input-source--prefix-override-handler]@cmd [alig.org]@buf [t]@override"
+
+"prefix: [], override: [t]"
+
+"now: [2052]"
+
+"set: english @ [alig.org]"
+
+"post@[prefix]: []@key [smart-input-source--prefix-override-handler]@cmd [alig.org]@buf [nil]@override"
+
+
+"pre@[prefix]: [o]@key [other-window]@cmd [alig.org]@buf [nil]@override"
+
+"post@[sequence]: [o]@key [other-window]@cmd [temp.org]@buf [nil]@override"
+
+
+"pre@[sequence]: [k]@key [org-self-insert-command]@cmd [temp.org]@buf [nil]@override"
+
+"save: [2052]@[alig.org]"
+
+"post@[normal]: [k]@key [org-self-insert-command]@cmd [temp.org]@buf [t]@override"
+
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 11 lines.
+
+Wrote c:/Users/Aqua/iCloudDrive/Documents/Org/temp.org
+Omitted 11 lines.
+
+"pre@[normal]: []@key [smart-input-source--prefix-override-handler]@cmd [temp.org]@buf [t]@override"
+
+"prefix: [], override: [t]"
+
+"now: [1033]"
+
+"set: english @ [temp.org]"
+
+"post@[prefix]: []@key [smart-input-source--prefix-override-handler]@cmd [temp.org]@buf [nil]@override"
+
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 10 lines.
+
+"pre@[prefix]: [o]@key [other-window]@cmd [temp.org]@buf [nil]@override"
+
+"post@[sequence]: [o]@key [other-window]@cmd [alig.org]@buf [nil]@override"
+
+
+"pre@[sequence]: [k]@key [org-self-insert-command]@cmd [alig.org]@buf [nil]@override"
+
+"save: [1033]@[temp.org]"
+
+"post@[normal]: [k]@key [org-self-insert-command]@cmd [alig.org]@buf [t]@override"
+
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 11 lines.
+
+Wrote c:/Users/Aqua/iCloudDrive/Documents/Org/alig.org
+Omitted 11 lines.
+Reverting buffer ‘Org’.
+Omitting...
+Omitted 10 lines.
+
+"pre@[normal]: [[67108902]]@key [switch-to-messages]@cmd [alig.org]@buf [t]@override"
+
+"post@[normal]: [[67108902]]@key [switch-to-messages]@cmd [*Messages*]@buf [t]@override"
+
+"restore: [nil]@[*Messages*]"
+
+
+"pre@[normal]: [\350]@key [set-mark-command]@cmd [*Messages*]@buf [t]@override"
+
+Mark set
+
+"post@[normal]: [\350]@key [set-mark-command]@cmd [*Messages*]@buf [t]@override"
+
+
+"pre@[normal]: [j]@key [end-of-buffer]@cmd [*Messages*]@buf [t]@override"
+
+
+"post@[normal]: [j]@key [end-of-buffer]@cmd [*Messages*]@buf [t]@override"
+
+
+"pre@[normal]: [[67108910]]@key [one-key-menu-thing-edit]@cmd [*Messages*]@buf [t]@override"
+
+The keystroke menu of <THING-EDIT> type ’?’ for help.
