@@ -1,0 +1,46 @@
+Smart-Input-Source-Log mode enabled
+
+"post@[normal]: [[8388717]]@key [smart-input-source-log-mode]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+
+"pre@[normal]: []@key [smart-input-source-switch]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+"post@[normal]: []@key [smart-input-source-switch]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+
+"pre@[normal]: [[24320]]@key [self-insert-command]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+"post@[normal]: [[24320]]@key [self-insert-command]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+
+"pre@[normal]: [[22987]]@key [self-insert-command]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+"post@[normal]: [[22987]]@key [self-insert-command]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+Reverting buffer ‘config’.
+Omitting...
+Omitted 3 lines.
+
+Wrote c:/Users/Aqua/Aquaemacs/site-lisp/config/init-smart-input-source.el
+Omitted 3 lines.
+
+"pre@[normal]: [\370]@key [smex+]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+
+"post@[normal]: []@key [smex+]@cmd [ *Minibuf-1*]@buf [t]@override"
+
+Reverting buffer ‘config’.
+Omitting...
+Omitted 2 lines.
+
+"pre@[normal]: []@key [abort-recursive-edit]@cmd [ *Minibuf-1*]@buf [t]@override"
+
+Quit
+"post@[normal]: []@key [abort-recursive-edit]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+"restore: [nil]@[init-smart-input-source.el]"
+
+
+"pre@[normal]: [[8388717]]@key [smart-input-source-log-mode]@cmd [init-smart-input-source.el]@buf [t]@override"
+
+Smart-Input-Source-Log mode disabled
